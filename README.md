@@ -23,7 +23,7 @@ Feel free to fork this and take and leave whatever fits your team best.
 > B\. [How?](#how)
 > > 4\. [Breakpoints](#breakpoints)  
 > > 5\. [Synapses Units](#synapses-units)  
-> > 6\. **[Synapses Design Language Specification](#synapses-design-language-specification)**  
+> > **6\. [Synapses Design Language Specification](#synapses-design-language-specification)**  
 > > 7\. [The Design Process with Synapses](#the-design-process-with-synapses)  
 > > 8\. [The Development Process with Synapses](#the-development-process-with-synapses)  
 
