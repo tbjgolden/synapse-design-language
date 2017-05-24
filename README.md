@@ -1,6 +1,6 @@
 # Synapses (Design Language)
 
-> Synapses are the _'bridge'_ between the heart (of design) and the head (of programming).
+> Synapses are the _'bridge'_ between the heart (design) and the head (programming).
 
 -----
 
