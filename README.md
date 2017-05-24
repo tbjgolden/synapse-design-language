@@ -7,11 +7,13 @@ understand.
 
 -----
 
+```
 **DISCLAIMER:**
 
 This is somewhat opinionated, and primarily related to web development and design.
 
 Feel free to fork this and take and leave whatever fits your team best.
+```
 
 **Contents:**
 
