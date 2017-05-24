@@ -86,7 +86,12 @@ either a fixed unit or a remainder unit.
 A **fixed** unit is a constant - px, rem, em, etc. Its size is fixed (i.e. independent
 of the screen size).
 
-[DIAGRAM]
+![](http://i.imgur.com/YdHX7wq.jpg)
+
+In this diagram, black represents fixed units (in px), purple represents ratios, orange
+represents a grow table and remainders are not included.
+
+(explanation)
 
 ## The Language
 
