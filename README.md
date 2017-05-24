@@ -69,7 +69,8 @@ Feel free to fork this and take and leave whatever fits your team best.
 Breakpoints are practically always necessary in some form. 'Hamburger' menu icons
 are practical on smaller device widths and impractical on larger device widths.
 
-It follows that at least one breakpoint will be needed but often 2 or 3 are **needed**.
+It follows that at least one breakpoint will be needed but often 2 or 3 are needed.
+Of course, more breakpoints = more work, so these are to be minimized where possible.
 
 **However**, the aim of the design should be to share the design logic between
 breakpoints where necessary. A new breakpoint doesn't always need every part of the
