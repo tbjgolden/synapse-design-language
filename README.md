@@ -2,8 +2,8 @@
 
 > Synapses are the _'bridge'_ between the heart (design) and the head (development).
 
-It is a shared standardized design language that designers can create and developers
-can make sense of.
+Shared standardized design language which designers can create and developers can
+understand.
 
 -----
 
