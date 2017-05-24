@@ -1,6 +1,6 @@
 # Synapses (Design Language)
 
-> Synapses are the _'bridge'_ between the heart (design) and the head (development).
+> Synapses serve as the communication between the heart (design) and the head (development).
 
 Shared standardized design language which designers can create and developers can
 understand.
