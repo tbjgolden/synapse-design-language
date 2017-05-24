@@ -16,16 +16,16 @@ Feel free to fork this and take and leave whatever fits your team best.
 **Contents:**
 
 > A\. [Why?](#why)
-> > 1\. Aims  
-> > 2\. Common misunderstandings  
-> > 3\. How they can be resolved
+> > 1\. [Aims](#the-synapses-design-language-aims-to)  
+> > 2\. [Common misunderstandings](#some-things-designers-and-developers-dont-always-realize-about-each-others-jobs)   
+> > 3\. [How they can be resolved](#and-how-to-fix-them)
 > 
-> B\. How?
-> > 4\. Breakpoints  
-> > 5\. Synapses Units  
-> > 6\. **Synapses Design Language Specification**  
-> > 7\. The Design Process with Synapses  
-> > 8\. The Development Process with Synapses
+> B\. [How?](#how)
+> > 4\. [Breakpoints](#breakpoints)  
+> > 5\. [Synapses Units](#synapses-units)  
+> > 6\. **[Synapses Design Language Specification](#synapses-design-language-specification)**  
+> > 7\. [The Design Process with Synapses](#the-design-process-with-synapses)  
+> > 8\. [The Development Process with Synapses](#the-development-process-with-synapses)  
 
 -----
 
