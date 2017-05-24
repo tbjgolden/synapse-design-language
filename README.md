@@ -15,18 +15,18 @@ Feel free to fork this and take and leave whatever fits your team best.
 
 **Contents:**
 
-A\. Why?
-> 1\. Aims  
-> 2\. Common misunderstandings  
-> 3\. How they can be resolved
-
-B\. How?
-
-> 4\. Breakpoints  
-> 5\. Synapses Units  
-> 6\. **Synapses Design Language Specification**  
-> 7\. The Design Process with Synapses  
-> 8\. The Development Process with Synapses
+> A\. Why?
+> > 1\. Aims  
+> > 2\. Common misunderstandings  
+> > 3\. How they can be resolved
+> 
+> B\. How?
+> 
+> > 4\. Breakpoints  
+> > 5\. Synapses Units  
+> > 6\. **Synapses Design Language Specification**  
+> > 7\. The Design Process with Synapses  
+> > 8\. The Development Process with Synapses
 
 -----
 
