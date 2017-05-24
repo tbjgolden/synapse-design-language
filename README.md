@@ -26,7 +26,7 @@ Feel free to fork this and take and leave whatever fits your team best.
 
 1) Pixels values **aren't always helpful** for developers.
 2) Few, if any, software products aimed at improving the design development process
-   actually do.
+   actually do for modern applications.
 3) Flexible widths are **not** a complicated thing to communicate.
 4) Some parts of design can and **should be** subjective decisions.
 5) Some parts of design **should not be** subjective decisions.
@@ -34,7 +34,7 @@ Feel free to fork this and take and leave whatever fits your team best.
 ### ...and how to fix them:
 
 1) Four different simple unit types, easier than pixels for both design and development.
-2) The pen is still mighty even now.
+2) A simple visual communication language.
 3) You can define 99% of flexible widths with 4 values.
 4) Address which ones are.
 5) Address which ones aren't.
@@ -88,6 +88,12 @@ of the screen size).
 
 [DIAGRAM]
 
-## When should design 'come from the heart'?
-## The Design Process
-## The Development Process
+## The Language
+
+
+
+### The Design Process
+
+
+
+### The Development Process
