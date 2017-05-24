@@ -15,7 +15,7 @@ Feel free to fork this and take and leave whatever fits your team best.
 
 **Contents:**
 
-> A\. Why?
+> A\. [Why?](#why)
 > > 1\. Aims  
 > > 2\. Common misunderstandings  
 > > 3\. How they can be resolved
