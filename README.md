@@ -19,7 +19,9 @@ A\. Why?
 > 1\. Aims  
 > 2\. Common misunderstandings  
 > 3\. How they can be resolved
+
 B\. How?
+
 > 4\. Breakpoints  
 > 5\. Synapses Units  
 > 6\. **Synapses Design Language Specification**  
