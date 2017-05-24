@@ -1,6 +1,9 @@
 # Synapses (Design Language)
 
-> Synapses are the _'bridge'_ between the heart (design) and the head (programming).
+> Synapses are the _'bridge'_ between the heart (design) and the head (development).
+
+It is a shared standardized design language that designers can create and developers
+can make sense of.
 
 -----
 
@@ -10,9 +13,23 @@ This is somewhat opinionated, and primarily related to web development and desig
 
 Feel free to fork this and take and leave whatever fits your team best.
 
+**Contents:**
+A\. Why?
+- 1\. Aims
+- 2\. Common misunderstandings
+- 3\. How they can be resolved
+B\. How?
+- 4\. Breakpoints
+- 5\. Synapses Units
+- 6\. **Synapses Design Language Specification**
+- 7\. The Design Process with Synapses
+- 8\. The Development Process with Synapses
+
 -----
 
-### Fundamentally, **this design language aims to:**
+## Why?
+
+### The **Synapses Design Language aims to:**
 
 * **eradicate ambiguous designs** (i.e. prevent misinterpretation of a design)
 * **improve the end product**
@@ -41,37 +58,26 @@ Feel free to fork this and take and leave whatever fits your team best.
 
 -----
 
-## Atomic Design Philosophy (aka Component Design)
+## How?
 
-The Atomic Design Philosophy is the ideology of breaking the interface into
-progressively smaller components.
-
-Developers, think React components, Angular components or Object-Oriented style
-programming.
-
-Designers, think Sketch symbols, Illustrator symbols/groups, or duplicating
-Photoshop layers.
-
-**DRY. Don't repeat yourself.** Componentized designs equals quicker designing and
-quicker programming and a more consistent result.
-
-## Breakpoints
+### Breakpoints
 
 Breakpoints are practically always necessary in some form. 'Hamburger' menu icons
 are practical on smaller device widths and impractical on larger device widths.
 
 It follows that at least one breakpoint will be needed but often 2 or 3 are **needed**.
 
-Many websites have more than that; but the aim of the design should be to share the
-design logic between breakpoints where necessary.
+**However**, the aim of the design should be to share the design logic between
+breakpoints where necessary. A new breakpoint doesn't always need every part of the
+interface to change. This is often where display bugs and technical debt comes from.
 
-It means less code for developers to write, meaning faster results and less bugs and
-technical debt.
+**Additionally**, 'atoms' (the bottom layer of components) should change as little as
+possible between breakpoints. It defeats much of the point of using them otherwise.
 
 **_This means avoiding fixed units EXCEPT when the size would never be affected by the
 screen's size._**
 
-## Units: (remainder, grow, ratio, fixed)
+### Synapses Units
 
 A **remainder** unit is one which just fills the remaining space. It has no 
 associated number with it. It can be seen as having no 'unit'.
@@ -88,17 +94,39 @@ of the screen size).
 
 ![](http://i.imgur.com/YdHX7wq.jpg)
 
-In this diagram, black represents fixed units (in px), purple represents ratios, orange
-represents a grow table and remainders are not included.
+In this diagram:
 
-(explanation)
+* **black represents fixed** units (in px)
+* **purple represents ratios**
+* **orange represents a grow table**
+* **remainders are invisible** (they're there if nothing else is)
 
-## The Language
+### **Synapses Design Language Specification**
 
+### The Design Process with Synapses
 
+#### Component Design Philosophy
 
-### The Design Process
+e.g. the **[Atomic Design Philosophy](http://atomicdesign.bradfrost.com/chapter-2/)**
 
+The Component Design Philosophy is the ideology of breaking the interface into
+progressively **smaller components**. In design this means **greater continuity**.
+In development this means **less development time** and reduced time to make small but
+widespread changes.
 
+**Developers**, _think React components_, Angular components or reuse-heavy functional
+style programming for the front-end.
 
-### The Development Process
+**Designers**, _think Sketch symbols_, Illustrator symbols/groups, or duplicating
+Photoshop layers.
+
+**_DRY. Don't repeat yourself._** Componentized designs equals quicker designing,
+quicker development and a more consistent result.
+
+#### Mockups and/or Synapses Wireframes
+
+#### Tools
+
+### The Development Process with Synapses
+
+#### What each unit means
