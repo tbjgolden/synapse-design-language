@@ -21,7 +21,6 @@ Feel free to fork this and take and leave whatever fits your team best.
 > > 3\. How they can be resolved
 > 
 > B\. How?
-> 
 > > 4\. Breakpoints  
 > > 5\. Synapses Units  
 > > 6\. **Synapses Design Language Specification**  
