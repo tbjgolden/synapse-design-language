@@ -96,7 +96,7 @@ either a fixed unit or a remainder unit.
 A **fixed** unit is a constant - px, rem, em, etc. Its size is fixed (i.e. independent
 of the screen size).
 
-![](http://i.imgur.com/YdHX7wq.jpg)
+![](http://i.imgur.com/z6vjV73.jpg)
 
 In this diagram:
 
