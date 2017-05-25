@@ -31,9 +31,9 @@ Feel free to fork this and take and leave whatever fits your team best.
 
 -----
 
-## Why?
+# Why?
 
-### The **Synapses Design Language aims to:**
+## The **Synapses Design Language aims to:**
 
 * **eradicate ambiguous designs** (i.e. prevent misinterpretation of a design)
 * **improve the end product**
@@ -43,7 +43,7 @@ Feel free to fork this and take and leave whatever fits your team best.
 * **reduce the back and forth** between design and development
 * generally make design and development much **more efficient and fun**
 
-### Some things designers and developers don't always realize about each others jobs...
+## Some things designers and developers don't always realize about each others jobs...
 
 1) Pixels values **aren't always helpful** for developers.
 2) Few, if any, software products aimed at improving the design development process
@@ -52,7 +52,7 @@ Feel free to fork this and take and leave whatever fits your team best.
 4) Some parts of design can and **should be** subjective decisions.
 5) Some parts of design **should not be** subjective decisions.
 
-### ...and how to fix them:
+## ...and how to fix them:
 
 1) Four different simple unit types, easier than pixels for both design and development.
 2) A simple visual communication language.
@@ -62,9 +62,9 @@ Feel free to fork this and take and leave whatever fits your team best.
 
 -----
 
-## How?
+# How?
 
-### Breakpoints
+## Breakpoints
 
 Breakpoints are practically always necessary in some form. 'Hamburger' menu icons
 are practical on smaller device widths and impractical on larger device widths.
@@ -82,7 +82,7 @@ possible between breakpoints. It defeats much of the point of using them otherwi
 **_This means avoiding fixed units EXCEPT when the size would never be affected by the
 screen's size._**
 
-### Synapses Units
+## Synapses Units
 
 A **remainder** unit is one which just fills the remaining space. It has no 
 associated number with it. It can be seen as having no 'unit'.
@@ -106,11 +106,11 @@ In this diagram:
 * **orange represents a grow table**
 * **remainders are invisible** (they're there if nothing else is)
 
-### **Synapses Design Language Specification**
+## **Synapses Design Language Specification**
 
-### The Design Process with Synapses
+## The Design Process with Synapses
 
-#### Component Design Philosophy
+### Component Design Philosophy
 
 e.g. the **[Atomic Design Philosophy](http://atomicdesign.bradfrost.com/chapter-2/)**
 
@@ -128,10 +128,10 @@ Photoshop layers.
 **_DRY. Don't repeat yourself._** Componentized designs equals quicker designing,
 quicker development and a more consistent result.
 
-#### Mockups and/or Synapses Wireframes
+### Mockups and/or Synapses Wireframes
 
-#### Tools
+### Tools
 
-### The Development Process with Synapses
+## The Development Process with Synapses
 
-#### What each unit means
+### What each unit means
